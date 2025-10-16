@@ -1,2 +1,2 @@
-# medication-recommendation-optimizer
-AI-driven implementation of the Evaluator-Optimizer Workflow concept. continuous learning/feedback loop for safer, smarter medication picks. One AI (“Optimizer”) proposes a drug plan for a patient. A second AI (“Evaluator”) immediately checks that plan against rules and knowledge (drug–drug interactions, allergies, guideline hints)
+# Medication Recommendation Optimizer - Agentic AI System (WIP)
+AI-driven implementation of the Evaluator-Optimizer Workflow concept. Continuous learning/feedback loop for safer, smarter medication picks. One AI “Optimizer” proposes a drug plan for a patient. A second AI “Evaluator” immediately checks that plan against rules and knowledge (drug–drug interactions, allergies, guideline hints, ..). The Evaluator scores what’s risky or sub-optimal and feeds that critique back. The Optimizer adjusts and tries again. This repeats until the plan meets safety and quality thresholds, then it’s published.
